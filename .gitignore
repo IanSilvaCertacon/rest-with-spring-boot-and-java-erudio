@@ -22,13 +22,6 @@
 #Gradle temporary files
 target/
 
-#Eclipse files
-**/.project
-**/.classpath
-**/.settings/
-/bin/
-blog/bin/
-**/.tern-project
 
 #IntelliJ files
 **/*.iml

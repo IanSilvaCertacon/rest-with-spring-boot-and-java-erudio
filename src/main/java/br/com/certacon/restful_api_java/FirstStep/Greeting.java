@@ -1,4 +1,4 @@
-package br.com.certacon.restful_api_java;
+package br.com.certacon.restful_api_java.FirstStep;
 
 public class Greeting {
 

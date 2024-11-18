@@ -1,4 +1,4 @@
-package br.com.certacon.restful_api_java;
+package br.com.certacon.restful_api_java.FirstStep;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
